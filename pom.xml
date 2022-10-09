@@ -8,7 +8,7 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>strategy</module>
+        <module>Strategy</module>
         <module>Proxy</module>
         <module>Visitor</module>
         <module>Bridge</module>
